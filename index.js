@@ -7,13 +7,12 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  console.log(toUpperCase, ${Hello}!`)
+  console.log(toUpperCase, ${'I can/t hear you}!`)
 }
 
 function sayHiToGrandma() {
-  console.log("I can/t Hear you!")
+  console.log("I can/t hear you!")
 }
 
-expect(shout('hello')).toEqual('HELLO')
 
 
