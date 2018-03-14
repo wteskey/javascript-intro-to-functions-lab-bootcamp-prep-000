@@ -14,4 +14,6 @@ function sayHiToGrandma() {
   console.log("I can/t Hear you!")
 }
 
+expect(shout('hello')).toEqual('HELLO')
+
 
